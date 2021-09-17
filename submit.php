@@ -33,4 +33,5 @@ function sqlQuery(){
   }
 
 $conn->close();
+//test
 ?>
